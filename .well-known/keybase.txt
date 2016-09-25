@@ -1,0 +1,85 @@
+==================================================================
+https://keybase.io/skwerlman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://skwerlman.github.io
+  * I am skwerlman (https://keybase.io/skwerlman) on keybase.
+  * I have a public key with fingerprint 5D9D F29E 62C5 C2E2 951A  DC69 8628 2389 9AC2 E445
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01016f7162f5d2035f45c032bcee770938b0e012d847bd533b67dfb65282789aa2020a",
+            "fingerprint": "5d9df29e62c5c2e2951adc69862823899ac2e445",
+            "host": "keybase.io",
+            "key_id": "862823899ac2e445",
+            "kid": "01016f7162f5d2035f45c032bcee770938b0e012d847bd533b67dfb65282789aa2020a",
+            "uid": "e87527730edab886ba7d48860b5bec19",
+            "username": "skwerlman"
+        },
+        "service": {
+            "hostname": "skwerlman.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1474835391,
+    "expire_in": 157680000,
+    "prev": "ebde01830c4b7f7e23c03031680d140f05732f6a10373eeb588fe788d1281121",
+    "seqno": 28,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+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
+XsxiaeIydmdvzZ+sKbU4
+=NF7d
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/skwerlman
+
+==================================================================
