@@ -1,13 +1,18 @@
+
 <!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>Tetrarch Cockatrice Server by skwerlman</title>
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-dark.css">
+    <link rel="stylesheet" href="https://skwerlman.github.io/stylesheets/styles.css">
+    <link rel="stylesheet" href="https://skwerlman.github.io/stylesheets/github-dark.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="javascripts/respond.js"></script>
+    <script src="https://skwerlman.github.io/javascripts/respond.js"></script>
+
+    <!-- shamelessly stolen warning css -->
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-dcdb0f8f3185fda5af3b96614afd2292257830aa2885d95f7ca4b57920ead342.css" integrity="sha256-3NsPjzGF/aWvO5ZhSv0ikiV4MKoohdlffKS1eSDq00I=" media="all" rel="stylesheet" />
+
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -18,11 +23,12 @@
 
   </head>
   <body>
-      <div id="header">
-        <nav>
-          <li class="fork"><a href="https://github.com/skwerlman">View On GitHub</a></li>
-        </nav>
-      </div><!-- end header -->
+    <!-- -/->
+    <div class="container" align="center">
+        <div class="flash flash-warn" align="center">
+            Important news goes here
+        </div>
+    </div><!-- -->
 
     <div class="wrapper">
 
@@ -107,6 +113,36 @@ If you're on Linux, I'm sure you can figure it out.</p>
 
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-    
+
   </body>
+  <style type="text/css">
+  /*! from Github Dark Theme v1.15.4 (9/21/2016) */
+  .flash-notice {
+    background: #4183C4 !important;
+  }
+  .flash, .flash-global {
+    box-shadow: none !important;
+    background: #182030 !important;
+    color: #9daccc !important;
+    border: 1px solid #246 !important;
+  }
+  .flash {
+    display: inline-block;
+    border-color: #264c72 !important;
+    color: #c8d0e1 !important;
+  }
+  .flash-global a {
+    color: #b5b5b5 !important;
+  }
+  .flash-error {
+    border-color: #f44 !important;
+    background: #300 !important;
+    color: #f44 !important;
+  }
+  .flash.flash-warn, .flash-global.flash-warn {
+    background: rgba(51, 34, 17, .4) !important;
+    border: 1px solid #542 !important;
+    color: #ddd !important;
+  }
+  </style>
 </html>
