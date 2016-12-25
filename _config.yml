@@ -3,5 +3,5 @@ include: [".well-known"]
 title: Tetrarch Cockatrice Server
 description: We're new here!
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-modernist
