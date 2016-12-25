@@ -4,7 +4,7 @@ This is mostly a placeholder page, but we have some useful links too.
 
 ### Server info
 Location | Language | Hostname | Port | Allows Unregistered Users
-:---:|:---:|:---:|:---:|:---:
+---|---|---|---|---
 US East | English | mtg.tetrarch.co | 4747 | No
 
 __Note:__ You must register on the server before joining.  
