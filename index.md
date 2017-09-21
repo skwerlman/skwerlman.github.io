@@ -17,7 +17,7 @@ If you're on Linux, I'm sure you can figure it out.
 
 Name|Role
 ---|---
-skwerlman|Admin, Server Host
+skwerlman|Admin<br>Server Host
 
 ### Useful Links
 
