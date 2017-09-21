@@ -26,5 +26,4 @@ If you're on Linux, I'm sure you can figure it out.
 
 Name|Role
 ---|---
-skwerlman|Owner
-rakarth|Moderator
+skwerlman|Admin, Server Host
