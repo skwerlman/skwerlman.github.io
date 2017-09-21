@@ -13,6 +13,12 @@ If you're on Windows, click on the `Cockatrice` menu and then `Register to serve
 If you're on Mac OS X, click on `Actions` and then on `Register to server...`  
 If you're on Linux, I'm sure you can figure it out.
 
+### Staff Members
+
+Name|Role
+---|---
+skwerlman|Admin, Server Host
+
 ### Useful Links
 
 - [My twitter](https://twitter.com/skwerlman) (in case the server goes down)
@@ -22,8 +28,6 @@ If you're on Linux, I'm sure you can figure it out.
 - [Report a bug in Cockatrice](https://github.com/Cockatrice/Cockatrice/issues)
 - [Download Cockarice](https://cockatrice.github.io/)
 
-### Staff Members
+### Crypto Stuff for Nerds
 
-Name|Role
----|---
-skwerlman|Admin, Server Host
+- Proof of control for tetrarch.co: [&#91;https&#93;](https://tetrarch.co/.well-known/keybase.txt) [&#91;dns&#93;](https://keybase.io/skwerlman/sigchain#362ffe7fde86c86be16cdde1c84f8fdb8e4a7f986d8dc0e14b7a5d138f392da00f)
