@@ -38,7 +38,6 @@ body:
     id: terms
     attributes:
       label: Server
-      description: This issue occurs on the Tetrarch Cockatrice server (mtg.tetrarch.co)
       options:
         - label: This issue occurs on the Tetrarch Cockatrice server (mtg.tetrarch.co)
           required: true
