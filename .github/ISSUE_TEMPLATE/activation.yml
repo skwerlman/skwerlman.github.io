@@ -1,0 +1,44 @@
+name: Activation Problem
+description: Request manual account activation
+title: "[Activation]: "
+assignees:
+  - skwerlman
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: contact
+    attributes:
+      label: Account Name
+      description: What name did you create an account under?
+      placeholder: ex. best_edh_player2
+    validations:
+      required: true
+  - type: dropdown
+    id: reason
+    attributes:
+      label: Reason
+      description: Why do you need manual account activation?
+      options:
+        - Never recieved email
+        - Activation code not working
+        - Other (please describe)
+    validations:
+      required: true
+  - type: textarea
+    id: other
+    attributes:
+      label: Other Info
+      description: If you selected "Other" above, describe your issue here.
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Server
+      description: This issue occurs on the Tetrarch Cockatrice server (mtg.tetrarch.co)
+      options:
+        - label: This issue occurs on the Tetrarch Cockatrice server (mtg.tetrarch.co)
+          required: true
