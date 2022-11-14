@@ -31,3 +31,12 @@ skwerlman|Admin<br>Server Host
 ### Crypto Stuff for Nerds
 
 - Proof of control for tetrarch.co: [&#91;https&#93;](https://tetrarch.co/.well-known/keybase.txt) [&#91;dns&#93;](https://keybase.io/skwerlman/sigchain#362ffe7fde86c86be16cdde1c84f8fdb8e4a7f986d8dc0e14b7a5d138f392da00f)
+
+### Support the server
+
+While I run the server as a hobby, and don't have any plans to stop, it does cost me money to keep it going. If you have the means, any size donation is greatly appreciated!
+
+You can donate to help me cover the costs using the links below:
+
+- [Github Sponsors](https://github.com/sponsors/skwerlman)
+- [Liberapay](https://liberapay.com/skw)
