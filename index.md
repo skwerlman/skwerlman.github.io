@@ -30,7 +30,7 @@ skwerlman|Admin<br>Server Host
 
 ### Crypto Stuff for Nerds
 
-- Proof of control for tetrarch.co: [&#91;https&#93;](https://tetrarch.co/.well-known/keybase.txt) [&#91;dns&#93;](https://keybase.io/skwerlman/sigchain#362ffe7fde86c86be16cdde1c84f8fdb8e4a7f986d8dc0e14b7a5d138f392da00f)
+- Proof of control for tetrarch.co: [&#91;https&#93;](https://tetrarch.co/.well-known/keybase.txt) [&#91;dns&#93;](https://keybase.io/skwerlman/sigchain#9a70faf4bda2a4cdab5c8468972271dfcc0eebcb53bce146d91697484959a0120f)
 
 ### Support the server
 
