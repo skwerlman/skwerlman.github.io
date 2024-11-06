@@ -9,9 +9,8 @@ Location|Language|Hostname|Port|Allows Unregistered Users
 US East|English|mtg.tetrarch.co|443|No
 
 __Note:__ You must register on the server before joining.  
-If you're on Windows, click on the `Cockatrice` menu and then `Register to server...`  
+If you're on Windows or Linux, click on the `Cockatrice` menu and then `Register to server...`  
 If you're on Mac OS X, click on `Actions` and then on `Register to server...`  
-If you're on Linux, I'm sure you can figure it out.
 
 ### Staff Members
 
